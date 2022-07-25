@@ -1,0 +1,15 @@
+C:\Users\HEM4\source\repos\codeFirstLesson\bin\Debug\net6.0\codeFirstLesson.exe
+C:\Users\HEM4\source\repos\codeFirstLesson\bin\Debug\net6.0\codeFirstLesson.deps.json
+C:\Users\HEM4\source\repos\codeFirstLesson\bin\Debug\net6.0\codeFirstLesson.runtimeconfig.json
+C:\Users\HEM4\source\repos\codeFirstLesson\bin\Debug\net6.0\codeFirstLesson.dll
+C:\Users\HEM4\source\repos\codeFirstLesson\bin\Debug\net6.0\codeFirstLesson.pdb
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.csproj.AssemblyReference.cache
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.AssemblyInfoInputs.cache
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.AssemblyInfo.cs
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.dll
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\refint\codeFirstLesson.dll
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.pdb
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\codeFirstLesson.genruntimeconfig.cache
+C:\Users\HEM4\source\repos\codeFirstLesson\obj\Debug\net6.0\ref\codeFirstLesson.dll

@@ -1,0 +1,15 @@
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\bin\Debug\net6.0\EhliyetSorgulama.exe
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\bin\Debug\net6.0\EhliyetSorgulama.deps.json
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\bin\Debug\net6.0\EhliyetSorgulama.runtimeconfig.json
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\bin\Debug\net6.0\EhliyetSorgulama.dll
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\bin\Debug\net6.0\EhliyetSorgulama.pdb
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.csproj.AssemblyReference.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.AssemblyInfoInputs.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.AssemblyInfo.cs
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.csproj.CoreCompileInputs.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.dll
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\refint\EhliyetSorgulama.dll
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.pdb
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\EhliyetSorgulama.genruntimeconfig.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\SorguKatmanları\EhliyetSorgulama\obj\Debug\net6.0\ref\EhliyetSorgulama.dll

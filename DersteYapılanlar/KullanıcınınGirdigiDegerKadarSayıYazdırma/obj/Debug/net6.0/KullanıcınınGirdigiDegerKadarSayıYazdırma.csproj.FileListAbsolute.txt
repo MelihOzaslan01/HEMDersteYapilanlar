@@ -1,0 +1,15 @@
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\bin\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.exe
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\bin\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.deps.json
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\bin\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.runtimeconfig.json
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\bin\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.dll
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\bin\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.pdb
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.csproj.AssemblyReference.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.AssemblyInfoInputs.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.AssemblyInfo.cs
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.dll
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\refint\KullanıcınınGirdigiDegerKadarSayıYazdırma.dll
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.pdb
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\KullanıcınınGirdigiDegerKadarSayıYazdırma.genruntimeconfig.cache
+C:\Users\HEM4\source\repos\DersteYapılanlar\KullanıcınınGirdigiDegerKadarSayıYazdırma\obj\Debug\net6.0\ref\KullanıcınınGirdigiDegerKadarSayıYazdırma.dll
